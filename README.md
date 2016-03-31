@@ -1,2 +1,2 @@
-# 04_BattleTank
+# BattleTank
 Open world tank battle
